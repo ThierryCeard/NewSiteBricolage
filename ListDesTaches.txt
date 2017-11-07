@@ -1,0 +1,8 @@
+Gilles:
+
+Thierry:
+Commiter le code de la section
+
+Pierre:
+Commiter le nouveau code
+Mettre la VM a jour de ce code
